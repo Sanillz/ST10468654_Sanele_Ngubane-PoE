@@ -37,6 +37,7 @@ public class Message {
     private static int totalMessagesSent = 0;
 
     // ========== PART 3 ARRAYS 
+    // Part 3 arrays for sent, stored and disregarded messages
     public static ArrayList<String> sentMessages = new ArrayList<>();
     public static ArrayList<String> disregardedMessages = new ArrayList<>();
     public static ArrayList<String> storedMessages = new ArrayList<>();
