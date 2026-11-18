@@ -1,0 +1,1 @@
+#Summary (commit message)2Part 3: Added arrays for sent, stored and disregarded messages3Part 3: Added Stored Messages menu (option 4) and all sub-features4Part 3: Added ability to read JSON file into arrays5Part 3: Added unit tests for arrays, search, delete and report6Part 3: Final clean-up and testing
